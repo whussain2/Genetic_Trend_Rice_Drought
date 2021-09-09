@@ -16,7 +16,7 @@ In this work 17 years of historical data was leveraged to estimate genetic trend
 - R scripts are also given as ***.rmd*** files in rmd folder
 
 
-- [R Scripts_HTML](https://htmlpreview.github.io/?https://github.com/whussain2/Genetic_Trend_Rice_Drought/blob/main/HTML_files/Genetic_Trend_Drought_Rice_IRRI.html)
+- [R Scripts_HTML](https://htmlpreview.github.io/?https://github.com/whussain2/Genetic_Trend_Rice_Drought/blob/master/HTML_files/Genetic_Trend_Drought_Rice_IRRI.html)
 - [.rmd](https://github.com/whussain2/Genetic_Trend_Rice_Drought/blob/main/RMD_files/Genetic_Trend_Drought_Rice_IRRI.Rmd)
 
 # Contact
